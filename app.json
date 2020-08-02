@@ -1,0 +1,6 @@
+{
+  "name": "holps-7/ytdl-howtohack-xyz",
+  "description": "PHP powered youtube downloader inspired by youtube-dl",
+  "repository": "https://github.com/holps-7/ytdl-howtohack-xyz",
+  "keywords": ["PHP youtube downloader", "download youtube", "download youtube videos", "youtube-dl", "video downloader"],
+}
