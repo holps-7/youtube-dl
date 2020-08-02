@@ -121,4 +121,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Legal disclaimer:
 
-**Usage of ytdl-howtohack-xyz for any illegal purpose is not promoted. It's the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program. Only use for educational purposes.**
+**Usage of [youtube-dl](http://ytdl.howtohack.xyz) for any illegal purpose is not promoted. It's the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program. Only use for educational purposes.**
