@@ -20,7 +20,7 @@ Pure PHP-based youtube downloaders that work, and are **kept-up-to date** just d
 This script does not depend on anything other than cURL. 
 No Javascript interpreters, no calls to shell... nothing, but pure PHP with no heavy dependencies either.
 
-![]()
+![](https://github.com/holps-7/youtube-dl/blob/master/images/no_dependencies.png)
 
 That's all there is to it!
 
